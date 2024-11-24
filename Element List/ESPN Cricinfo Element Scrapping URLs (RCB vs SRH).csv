@@ -1,0 +1,15 @@
+Batting Team,Field,Link
+SRH,Wicket Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-red ds-text-raw-white
+SRH,4s Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-green-d2 ds-text-raw-white
+SRH,6s Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-purple ds-text-raw-white
+SRH,Other Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo
+SRH,Commentary,ds-ml-4 lg:ds-ml-3 ds-text-typo-mid1
+SRH,Over and Ball Numbers,ds-text-tight-s ds-font-regular ds-mb-1 lg:ds-mb-0 lg:ds-mr-3 ds-block ds-text-center ds-text-typo-mid1
+SRH,FoW,ds-rounded ds-bg-fill-content-alternate ds-ml-4 lg:ds-ml-3 ds-mt-1 ds-inline-block ds-p-3
+RCB,Wicket Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-red ds-text-raw-white
+RCB,4s Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-green-d2 ds-text-raw-white
+RCB,6s Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-purple ds-text-raw-white
+RCB,Other Balls,ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo
+RCB,Commentary,ds-ml-4 lg:ds-ml-3 ds-text-typo-mid1
+RCB,Over and Ball Numbers,ds-text-tight-s ds-font-regular ds-mb-1 lg:ds-mb-0 lg:ds-mr-3 ds-block ds-text-center ds-text-typo-mid1
+RCB,FoW,ds-rounded ds-bg-fill-content-alternate ds-ml-4 lg:ds-ml-3 ds-mt-1 ds-inline-block ds-p-3
