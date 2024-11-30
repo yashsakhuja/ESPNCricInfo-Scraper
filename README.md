@@ -19,7 +19,7 @@ Here’s a brief overview of how the code in scraper.py is structured and the se
 
 
 ---
-For more detail on how this works read my blog here:
+For more detail on how this works read my blog here: https://cj-mayes.com/2024/11/25/scraping-ball-by-ball-cricket-data-with-yash-sakhuja/
 
 
 If you have any further questions, please feel free to reach out to me on my socials 🔗
